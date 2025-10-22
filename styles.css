@@ -1,0 +1,35 @@
+html {
+    background: white;
+    font-family: Quicksand, sans-serif;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    padding: 10pt;
+}
+
+.text {
+    background-color: aqua;
+    color: white;
+    padding: 10pt;
+    font-weight: bolder;
+}
+
+.testimonials .text {
+    text-align: center;
+    font-style: italic;
+}
+
+.person {
+    font-style: italic;
+}
+
+footer {
+    background-color: pink;
+    color: white;
+    font-weight: bolder;
+}
